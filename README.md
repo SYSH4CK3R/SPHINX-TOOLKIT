@@ -48,7 +48,7 @@
 #### If all this is then you can download!
 
 **Root     : ROOT**
-**Storage  : 2200 MB**
+**Storage  : 350 MB**
 **Internet : must be**
 
 ## My Information
