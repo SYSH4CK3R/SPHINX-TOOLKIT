@@ -1,4 +1,4 @@
-# FREE RDP - SYSH4CK3R
+# SPHINX TOOLKIT - SYSH4CK3R
 
 <img width="99.9%" src="https://f.top4top.io/p_3535uppow1.jpg"/>
 > AllHackingTools: is a system designed to automate the download process and install various tools for penetration testing.
@@ -18,7 +18,15 @@
 
 
 ---
-<a id="installing"></a>
+### installing Linux
+# Install  git
+sudo apt install git
+#clone this repository
+git clone https://github.com/SYSH4CK3R/SPHINX-TOOLKIT
+#cd to directory SPHINX-TOOLKIT
+cd SPHINX-TOOLKIT
+#Start script to install system
+bash SPHINX TOOLKIT.sh
 ## My Information
 
 [WEBSITE](http://www.sysh4ck3r.giize.com/)
