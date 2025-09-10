@@ -426,13 +426,13 @@
 
 ## ☠️ SQL INJECTION TOOLS (Authorized Use Only)
 
-<a href="https://github.com/sqlmapproject/sqlmap">SQLMAP</a> – SQLMap is an automated SQL injection testing tool for authorized security assessments. Description by SYSH4CK3R.
-<a href="https://github.com/ron190/jsql-injection">JSQL INJECTION</a> – jSQL Injection is a lightweight Java-based application for educational SQL injection demonstrations. Description by SYSH4CK3R.
-<a href="#">Havij Free (Educational)</a> – Havij Free Edition is a tool for learning SQL injection detection and prevention in test environments. Description by SYSH4CK3R.
-<a href="https://hub.docker.com/r/webgoat/webgoat-8.0">OWASP WEBGOAT</a> – WebGoat is a deliberately insecure web application maintained by OWASP for teaching web app security. Description by SYSH4CK3R.
-<a href="https://github.com/digininja/DVWA">DVWA (DAMN VULNERABLE WEB APP)</a> – DVWA is a PHP/MySQL web application that is damn vulnerable, for security training. Description by SYSH4CK3R.
-<a href="https://github.com/raesene/bWAPP">bWAPP</a> – bWAPP (Buggy Web Application) is an intentionally insecure web app for security practice. Description by SYSH4CK3R.
-<a href="https://github.com/webpwnized/mutillidae">MUTILLIDAE II</a> – OWASP Mutillidae II is a free, open-source vulnerable web application for security education. Description by SYSH4CK3R.
-<a href="https://github.com/Audi-1/sqli-labs">SQLI LABS</a> – SQLi Labs provides multiple labs for practicing SQL injection techniques safely. Description by SYSH4CK3R.
-<a href="https://portswigger.net/web-security">PORTSWIGGER WEB SECURITY ACADEMY LABS</a> – PortSwigger offers online labs to practice SQL injection and web security skills safely. Description by SYSH4CK3R.
-<a href="https://portswigger.net/burp">BURP SUITE COMMUNITY</a> – Burp Suite Community Edition includes features for safe SQL injection testing in authorized labs. Description by SYSH4CK3R.
+- <a href="https://github.com/sqlmapproject/sqlmap">SQLMAP</a> – SQLMap is an automated SQL injection testing tool for authorized security assessments. Description by SYSH4CK3R.
+- <a href="https://github.com/ron190/jsql-injection">JSQL INJECTION</a> – jSQL Injection is a lightweight Java-based application for educational SQL injection demonstrations. Description by SYSH4CK3R.
+- <a href="#">Havij Free (Educational)</a> – Havij Free Edition is a tool for learning SQL injection detection and prevention in test environments. Description by SYSH4CK3R.
+- <a href="https://hub.docker.com/r/webgoat/webgoat-8.0">OWASP WEBGOAT</a> – WebGoat is a deliberately insecure web application maintained by OWASP for teaching web app security. Description by SYSH4CK3R.
+- <a href="https://github.com/digininja/DVWA">DVWA (DAMN VULNERABLE WEB APP)</a> – DVWA is a PHP/MySQL web application that is damn vulnerable, for security training. Description by SYSH4CK3R.
+- <a href="https://github.com/raesene/bWAPP">bWAPP</a> – bWAPP (Buggy Web Application) is an intentionally insecure web app for security practice. Description by SYSH4CK3R.
+- <a href="https://github.com/webpwnized/mutillidae">MUTILLIDAE II</a> – OWASP Mutillidae II is a free, open-source vulnerable web application for security education. Description by SYSH4CK3R.
+- <a href="https://github.com/Audi-1/sqli-labs">SQLI LABS</a> – SQLi Labs provides multiple labs for practicing SQL injection techniques safely. Description by SYSH4CK3R.
+- <a href="https://portswigger.net/web-security">PORTSWIGGER WEB SECURITY ACADEMY LABS</a> – PortSwigger offers online labs to practice SQL injection and web security skills safely. Description by SYSH4CK3R.
+- <a href="https://portswigger.net/burp">BURP SUITE COMMUNITY</a> – Burp Suite Community Edition includes features for safe SQL injection testing in authorized labs. Description by SYSH4CK3R.
