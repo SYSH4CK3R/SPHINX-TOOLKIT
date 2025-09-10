@@ -286,4 +286,7 @@
 
 ##📷 Camera Security & IoT Testing Tools (Authorized Use Only)
 
-- <a href="https://github.com/Ullaakut/cameradar">CAMERADAR</a>
+<a href="https://github.com/Ullaakut/cameradar">CAMERADAR</a> – A Go-based toolkit that scans networks for RTSP-enabled cameras, identifies their models, and can perform automated dictionary attacks to retrieve stream routes and credentials 
+GitHub
+
+<a href="https://github.com/apockill/InsecamScraper">INSECAM-SCRAPER</a> – A Python project that scrapes IP addresses from Insecam.org, loads the corresponding camera feeds, processes each frame with a machine-learning model to detect people or objects, and saves relevant frames locally
