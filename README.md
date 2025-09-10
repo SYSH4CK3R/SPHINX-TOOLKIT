@@ -54,21 +54,21 @@
 **Storage  : 350 MB**
 **Internet : must be**
 
-## تواصل معي
+##  FIND ME
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-<!-- التيليجرام -->
+
 [![Telegram](https://img.shields.io/badge/Telegram-SYSH4CK3R-blue?style=for-the-badge&logo=telegram)](https://t.me/SysH4ck3r)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-DarkNetShadow-blue?style=for-the-badge&logo=telegram)](https://t.me/DarkNetShadow)
 
-<!-- اليوتيوب -->
+
 [![YouTube](https://img.shields.io/badge/YouTube-SYSH4CK3R-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SYSH4CK3R)
 
-<!-- الفيسبوك -->
+
 [![Facebook](https://img.shields.io/badge/Facebook-SYSH4CK3R-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/SYSH4CK3R/)
 
-<!-- الموقع الرسمي -->
+
 [![Website](https://img.shields.io/badge/Website-SYSH4CK3R-orange?style=for-the-badge&logo=google-chrome)](http://www.sysh4ck3r.giize.com/)
 
 </div>
