@@ -18,15 +18,17 @@
 
 
 ---
-### installing Linux
-# Install  git
-sudo apt install git
-#clone this repository
-git clone https://github.com/SYSH4CK3R/SPHINX-TOOLKIT
-#cd to directory SPHINX-TOOLKIT
-cd SPHINX-TOOLKIT
-#Start script to install system
-bash SPHINX TOOLKIT.sh
+1. ```bash
+   git clone https://github.com/SYSH4CK3R/SPHINX-TOOLKIT
+   ```
+2. ```bash
+   cd SPHINX-TOOLKIT
+   ```
+3. ```bash
+   bash SPHINX TOOLKIT.sh
+   ```
+
+   
 ## My Information
 
 [WEBSITE](http://www.sysh4ck3r.giize.com/)
