@@ -37,7 +37,7 @@
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Remote Trojan RAT</a>
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SQL Injection Tools</a>
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SocialMedia Bruteforce</a>
-     - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SocialMedia Finder</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SocialMedia Finder</a>
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">DDOS Attack Tools</a>
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Phishing Attack Tools</a>
 - <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Hash Cracking Tools</a>
@@ -47,9 +47,9 @@
 ## Dependencies
 #### If all this is then you can download!
 
-**Root     : NO ROOT**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/terminal-fill.svg"/> <br>
-**Storage  : 2200 MB**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/download.svg"/> <br>
-**Internet : must be**  <img width="2.0%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/other/wifi.svg"/> <br>
+**Root     : ROOT**
+**Storage  : 2200 MB**
+**Internet : must be**
 
 ## My Information
 
