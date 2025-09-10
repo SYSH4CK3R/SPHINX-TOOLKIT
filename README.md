@@ -29,20 +29,23 @@
    ```
 # 🛡️ Security & Networking Utilities – SYSH4CK3R Toolkit
 
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Information Gathering</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Exploitation Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Sniffing and Spoofing</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Web Attack Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Cam Hacking Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Remote Trojan RAT</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SQL Injection Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SocialMedia Bruteforce</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">SocialMedia Finder</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">DDOS Attack Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Phishing Attack Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Hash Cracking Tools</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">Worldlist Generator</a>
-- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">XSS Attack Tools</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🔎 INFORMATION GATHERING</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">💥 EXPLOITATION TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">📡 SNIFFING & SPOOFING TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🌐 WEB SECURITY & TESTING TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">📷 CAMERA SECURITY & IOT TESTING TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">👻 REMOTE TROJAN RAT</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">☠️ SQL INJECTION TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🍷 SOCIALMEDIA BRUTEFORCE TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🏹 SOCIALMEDIA FINDER</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">👹 DDOS DEFENSE & TRAFFIC SIMULATION</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">💀 PHISHING ATTACK TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🤡 HASH ANALYSIS & SECURITY RESEARCH</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">😈 WORDLIST GENERATOR</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">🤪 XSS ATTACK TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">😜 DISCORD SECURITY & MANAGEMENT TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">😎 WEB CRAWLING TOOLS</a>
+- <a href="https://github.com/SYSH4CK3R/SPHINX-TOOLKIT/blob/main/thetool.md">📡 WIRELESS ATTACK TOOLS</a>
 
 ## Dependencies
 #### If all this is then you can download!
@@ -51,9 +54,22 @@
 **Storage  : 350 MB**
 **Internet : must be**
 
-## My Information
+## تواصل معي
 
-[WEBSITE](http://www.sysh4ck3r.giize.com/)
-[TELEGRAM CONTACT](https://t.me/SysH4ck3r)
-[YOUTUBE CHANNEL](https://www.youtube.com/@SYSH4CK3R)
-[FACEBOOK PAGE](https://www.facebook.com/SYSH4CK3R/)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+<!-- التيليجرام -->
+[![Telegram](https://img.shields.io/badge/Telegram-SYSH4CK3R-blue?style=for-the-badge&logo=telegram)](https://t.me/SysH4ck3r)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-DarkNetShadow-blue?style=for-the-badge&logo=telegram)](https://t.me/DarkNetShadow)
+
+<!-- اليوتيوب -->
+[![YouTube](https://img.shields.io/badge/YouTube-SYSH4CK3R-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SYSH4CK3R)
+
+<!-- الفيسبوك -->
+[![Facebook](https://img.shields.io/badge/Facebook-SYSH4CK3R-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/SYSH4CK3R/)
+
+<!-- الموقع الرسمي -->
+[![Website](https://img.shields.io/badge/Website-SYSH4CK3R-orange?style=for-the-badge&logo=google-chrome)](http://www.sysh4ck3r.giize.com/)
+
+</div>
+
