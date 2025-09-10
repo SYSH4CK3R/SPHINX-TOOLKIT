@@ -436,3 +436,142 @@
 - <a href="https://github.com/Audi-1/sqli-labs">SQLI LABS</a> – SQLi Labs provides multiple labs for practicing SQL injection techniques safely. Description by SYSH4CK3R.
 - <a href="https://portswigger.net/web-security">PORTSWIGGER WEB SECURITY ACADEMY LABS</a> – PortSwigger offers online labs to practice SQL injection and web security skills safely. Description by SYSH4CK3R.
 - <a href="https://portswigger.net/burp">BURP SUITE COMMUNITY</a> – Burp Suite Community Edition includes features for safe SQL injection testing in authorized labs. Description by SYSH4CK3R.
+
+## 🍷 SOCIALMEDIA BRUTEFORCE TOOLS (Authorized Use Only)
+- <a href="https://github.com/vanhauser-thc/thc-hydra">HYDRA</a> – Hydra is a popular network logon cracker for authorized penetration testing. Description by SYSH4CK3R.
+- <a href="https://github.com/jmk-foofus/medusa">MEDUSA</a> – Medusa is a fast parallel login brute-forcer for authorized security assessments. Description by SYSH4CK3R.
+- <a href="https://nmap.org/ncrack/">NCRACK</a> – Ncrack is a network authentication cracking tool used for security testing. Description by SYSH4CK3R.
+- <a href="https://github.com/galkan/crowbar">CROWBAR</a> – Crowbar is a brute force tool for SSH/VNC and other protocols in lab environments. Description by SYSH4CK3R.
+- <a href="https://github.com/lanjelot/patator">PATATOR</a> – Patator is a multi-purpose brute-forcer supporting many protocols, for educational use. Description by SYSH4CK3R.
+- <a href="https://github.com/Mebus/cupp">CUPP</a> – CUPP (Common User Passwords Profiler) generates wordlists for authorized testing. Description by SYSH4CK3R.
+- <a href="https://hashcat.net/hashcat/">HASHCAT</a> – Hashcat is an advanced password recovery tool for lab-based security research. Description by SYSH4CK3R.
+- <a href="https://www.openwall.com/john/">JOHN THE RIPPER</a> – John the Ripper is a fast password cracker for testing password strength. Description by SYSH4CK3R.
+- <a href="https://sourceforge.net/projects/crunch-wordlist/">CRUNCH</a> – Crunch generates custom wordlists for authorized brute-force testing. Description by SYSH4CK3R.
+- <a href="https://github.com/xmendez/wfuzz">WFUZZ</a> – WFuzz is a web application brute-forcer for authorized security testing. Description by SYSH4CK3R.
+- <a href="https://portswigger.net/burp">BURP SUITE COMMUNITY</a> – Burp Suite Community Edition includes an Intruder tool for safe brute-force testing in labs. Description by SYSH4CK3R.
+- <a href="https://github.com/ffuf/ffuf">FFUF</a> – FFUF is a fast web fuzzer useful for authorized brute-force testing. Description by SYSH4CK3R.
+- <a href="https://www.owasp.org/index.php/Category:OWASP_DirBuster_Project">DIRBUSTER</a> – DirBuster is a web path brute-forcer from OWASP for testing directory structures. Description by SYSH4CK3R.
+- <a href="https://www.zaproxy.org/">ZAP FUZZER</a> – OWASP ZAP's built-in fuzzer for web application security testing. Description by SYSH4CK3R.
+- <a href="https://github.com/vanhauser-thc/thc-hydra-gtk">HYDRA-GTK</a> – Hydra-GTK is a graphical front-end for Hydra for educational security testing. Description by SYSH4CK3R.
+- <a href="https://github.com/vanhauser-thc/thc-ssl-dos">THC-SSL-DOS</a> – THC-SSL-DOS is a stress testing tool for SSL, for controlled lab environments. Description by SYSH4CK3R.
+- <a href="https://www.aircrack-ng.org/">AIRCRACK-NG</a> – Aircrack-ng is a Wi-Fi security auditing tool for testing wireless networks you own. Description by SYSH4CK3R.
+- <a href="https://www.bettercap.org/">BETTERCAP</a> – Bettercap is a powerful network attack and monitoring tool for authorized security testing. Description by SYSH4CK3R.
+- <a href="https://github.com/TunisianEagles/SocialBox">SOCIALBOX</a> – SocialBox is a brute-force framework for social media accounts in lab testing only. Description by SYSH4CK3R.
+- <a href="https://github.com/1N3/BruteX">BRUTEX</a> – BruteX combines Nmap and Hydra for automated brute-force in authorized pentests. Description by SYSH4CK3R.
+
+## 🏹 SOCIALMEDIA FINDER (Authorized Use Only)
+
+- <a href="https://github.com/sherlock-project/sherlock">SHERLOCK</a> – Sherlock searches for usernames across many social networks. Use only for authorized OSINT. Description by SYSH4CK3R.
+- <a href="https://github.com/soxoj/maigret">MAIGRET</a> – Maigret performs username searches across thousands of sites. Authorized use only. Description by SYSH4CK3R.
+- <a href="https://www.spiderfoot.net/">SPIDERFOOT</a> – SpiderFoot automates OSINT, including social media footprinting. Description by SYSH4CK3R.
+- <a href="https://github.com/0x90d/socialscan">SOCIALSCAN</a> – SocialScan checks email addresses and usernames across platforms. Description by SYSH4CK3R.
+- <a href="https://github.com/mxrch/ghunt">GHUNT</a> – GHunt gathers OSINT from Google accounts. Authorized testing only. Description by SYSH4CK3R.
+- <a href="https://github.com/thelinuxchoice/userrecon">USERRECON</a> – UserRecon checks username availability across social media. Description by SYSH4CK3R.
+- <a href="https://github.com/alpkeskin/mosint">MOSINT</a> – MOSINT collects email intelligence and related social accounts. Description by SYSH4CK3R.
+- <a href="https://www.npmjs.com/package/hunterio-cli">HUNTERIO-CLI</a> – Hunter.io CLI finds email addresses and associated social profiles. Description by SYSH4CK3R.
+- <a href="https://github.com/twintproject/twint">TWINT</a> – Twint scrapes Twitter data without API keys for research purposes. Description by SYSH4CK3R.
+- <a href="https://github.com/m4ll0k/SocialSense">SOCIALSENSE</a> – SocialSense performs multi-platform social media searches. Description by SYSH4CK3R.
+
+## 👹 DDOS DEFENSE & TRAFFIC SIMULATION
+
+- <a href="https://www.hping.org/">HPING3</a> – Hping3 is a packet generator and analyzer for testing and simulating network traffic. Use only in labs or on your own systems. Description by SYSH4CK3R.
+- <a href="https://github.com/gkbrk/slowloris">SLOWLORIS</a> – Slowloris is a stress-testing script to simulate slow HTTP attacks for defensive research. Use responsibly in a controlled environment. Description by SYSH4CK3R.
+- <a href="https://github.com/NewEraCracker/LOIC">LOIC</a> – Low Orbit Ion Cannon for network stress testing. Only for personal or lab use. Description by SYSH4CK3R.
+- <a href="https://github.com/jseidl/GoldenEye">GOLDENEYE</a> – GoldenEye is an HTTP DoS test tool used in labs to study web server resilience. Description by SYSH4CK3R.
+- <a href="https://metasploit.help.rapid7.com/docs">METASPLOIT AUXILIARY</a> – Metasploit framework auxiliary modules can simulate traffic for security research. Description by SYSH4CK3R.
+- <a href="https://scapy.net/">SCAPY</a> – Scapy is a Python-based packet crafting and analysis tool for labs and network security research. Description by SYSH4CK3R.
+- <a href="https://www.wireshark.org/">WIRESHARK</a> – Wireshark is a packet analyzer to observe and learn about DDoS patterns safely. Description by SYSH4CK3R.
+- <a href="#">IPTABLES DEMO</a> – Iptables rule demonstration to learn about rate limiting and mitigation. Description by SYSH4CK3R.
+- <a href="https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/">CLOUDFLARE LABS</a> – Cloudflare Learning Labs for understanding DDoS protection techniques. Description by SYSH4CK3R.
+- <a href="https://tcpreplay.appneta.com/">TCPREPLAY</a> – Tcpreplay is used to replay captured network traffic for defensive research. Description by SYSH4CK3R.
+
+## 💀 PHISHING ATTACK TOOLS
+- <a href="https://github.com/gophish/gophish">GOPHISH</a> – Gophish is an open-source phishing framework used by security professionals to run authorized phishing campaigns for training. Description by SYSH4CK3R.
+- <a href="https://github.com/rsmusllp/king-phisher">KINGPHISHER</a> – KingPhisher is a phishing campaign toolkit used for simulated phishing in penetration tests. Description by SYSH4CK3R.
+- <a href="https://github.com/kgretzky/evilginx2">EVILGINX2</a> – Evilginx2 is a man-in-the-middle attack framework for phishing login credentials and session cookies in authorized labs. Description by SYSH4CK3R.
+- <a href="https://github.com/An0nUD4Y/socialfish">SOCIALFISH</a> – SocialFish is an educational phishing tool for awareness training. Description by SYSH4CK3R.
+- <a href="https://github.com/DarkSecDevelopers/HiddenEye">HIDDENEYE</a> – HiddenEye is an advanced phishing tool that can clone login pages for awareness training. Description by SYSH4CK3R.
+- <a href="https://github.com/drk1wi/Modlishka">MODLISHKA</a> – Modlishka is a reverse proxy used for advanced phishing simulations in controlled environments. Description by SYSH4CK3R.
+- <a href="https://github.com/ustayready/CredSniper">CREDSNIPER</a> – CredSniper is a phishing framework for simulating credential harvesting in labs. Description by SYSH4CK3R.
+- <a href="https://github.com/thelinuxchoice/shellphish">SHELLPHISH</a> – ShellPhish is a phishing framework with templates for educational use. Description by SYSH4CK3R.
+- <a href="https://github.com/htr-tech/zphisher">ZPHISHER</a> – ZPhisher is an automated phishing tool with 30+ templates. For authorized simulations only. Description by SYSH4CK3R.
+- <a href="https://github.com/WeebSec/PhishX">PHISHX</a> – PhishX is a social engineering phishing framework for awareness campaigns. Description by SYSH4CK3R.
+
+## 🤡 HASH ANALYSIS & SECURITY RESEARCH
+
+- <a href="https://hashcat.net/hashcat/">HASHCAT</a> – Hashcat is a powerful, open-source hash analysis and recovery tool used in authorized security testing. Description by SYSH4CK3R.
+- <a href="https://www.openwall.com/john/">JOHN THE RIPPER</a> – John the Ripper is a classic password recovery tool for testing hash strength in labs. Description by SYSH4CK3R.
+- <a href="https://github.com/jessek/hashdeep">HASHDEEP</a> – Hashdeep computes and audits hashes for file verification and forensic research. Description by SYSH4CK3R.
+- <a href="https://github.com/rhash/RHash">RHASH</a> – RHash is a console utility for computing and verifying hash sums. Description by SYSH4CK3R.
+- <a href="https://sourceforge.net/projects/crunch-wordlist/">CRUNCH</a> – Crunch generates custom wordlists for testing hash strength and password policies. Description by SYSH4CK3R.
+- <a href="http://project-rainbowcrack.com/">RAINBOWCRACK</a> – RainbowCrack uses precomputed rainbow tables for hash lookup in educational settings. Description by SYSH4CK3R.
+- <a href="https://github.com/blackploit/hash-identifier">HASH-IDENTIFIER</a> – Hash-Identifier identifies types of hashes for security research. Description by SYSH4CK3R.
+- <a href="https://packages.debian.org/sid/fcrackzip">FCRACKZIP</a> – fcrackzip is used to recover ZIP file passwords for legitimate recovery scenarios. Description by SYSH4CK3R.
+- <a href="https://pdfcrack.sourceforge.net/">PDFCRACK</a> – PDFCrack is used for recovering passwords of PDF documents in authorized recovery. Description by SYSH4CK3R.
+- <a href="https://hashcat.net/hashcat/">OCLHASHCAT</a> – oclHashcat is the GPU-accelerated version of Hashcat for legitimate hash testing. Description by SYSH4CK3R.
+
+## 😈 WORDLIST GENERATOR
+
+- <a href="https://sourceforge.net/projects/crunch-wordlist/">CRUNCH</a> – Crunch generates custom wordlists based on patterns, useful for testing password strength and auditing. Description by SYSH4CK3R.
+- <a href="https://github.com/Mebus/cupp">CUPP</a> – CUPP creates targeted wordlists by profiling potential password patterns for authorized security testing. Description by SYSH4CK3R.
+- <a href="https://digi.ninja/projects/cewl.php">CEWL</a> – CeWL spiders websites to generate custom wordlists based on site content. Description by SYSH4CK3R.
+- <a href="https://github.com/berzerk0/Probable-Wordlists">WARGAMES-WORDLISTS</a> – A curated set of wordlists used in security challenges and tests. Description by SYSH4CK3R.
+- <a href="https://github.com/danielmiessler/SecLists">SECLISTS</a> – SecLists is a collection of multiple types of lists for security assessments. Description by SYSH4CK3R.
+- <a href="https://github.com/zzzteph/dyna-wordlist">DYNA-WORDLIST</a> – Dyna-Wordlist dynamically generates password lists using patterns or input data. Description by SYSH4CK3R.
+- <a href="https://github.com/K4YT3X/wordlist-generator">WORDLIST-GENERATOR (K4YT3X)</a> – A Python-based customizable wordlist generator for penetration testing labs. Description by SYSH4CK3R.
+- <a href="https://github.com/WolfManPy/wolfman-wordlist">WOLFMAN-WORDLIST</a> – Wolfman-wordlist builds password lists from given input phrases. Description by SYSH4CK3R.
+- <a href="https://github.com/UltimateHackers/hash-buster">HASH-BUSTER WORDLIST</a> – Generates common hash-based password lists for testing cracking tools. Description by SYSH4CK3R.
+- <a href="https://github.com/agusmakmun/Simple-Wordlist-Maker">SIMPLE-WORDLIST-MAKER</a> – A simple bash-based script to create wordlists from text input. Description by SYSH4CK3R.
+
+## 🤪 XSS ATTACK TOOLS
+
+- <a href="https://github.com/s0md3v/XSStrike">XSStrike</a> – Advanced XSS detection and exploitation tool for authorized testing. Description by SYSH4CK3R.
+- <a href="https://github.com/hahwul/dalfox">DalFox</a> – Fast, powerful XSS scanner and parameter analyzer. Description by SYSH4CK3R.
+- <a href="https://xsser.03c8.net/">XSSer</a> – Automated framework to detect, exploit and report XSS vulnerabilities. Description by SYSH4CK3R.
+- <a href="https://github.com/rajeshmajumdar/BruteXSS">BruteXSS</a> – Brute force XSS vulnerabilities for testing web security. Description by SYSH4CK3R.
+- <a href="https://github.com/KathanP19/Gxss">Gxss</a> – Filters reflected parameters from a URL for XSS testing. Description by SYSH4CK3R.
+- <a href="https://github.com/Emoe/kxss">Kxss</a> – Extracts parameters for XSS fuzzing from JavaScript files. Description by SYSH4CK3R.
+- <a href="https://github.com/bugcrowd/HUNT">HUNT (XSS Payloads)</a> – Generates advanced XSS payloads for pentesting labs. Description by SYSH4CK3R.
+- <a href="https://portswigger.net/bapp-store/1f14b6e7ee3f4eeb94f65d75b6f291d7">DOM Invader (Burp Suite Extension)</a> – Burp Suite extension for client-side DOM XSS testing. Description by SYSH4CK3R.
+- <a href="https://github.com/XSpear/XSpear">XSpear</a> – Ruby-based XSS scanner with detailed reporting. Description by SYSH4CK3R.
+- <a href="https://github.com/menkrep1337/XSSCon">XSSCon</a> – Simple and fast XSS detection tool. Description by SYSH4CK3R.
+
+## 😜 DISCORD SECURITY & MANAGEMENT TOOLS
+
+- <a href="https://github.com/example/discord-security-bot">DISCORD SECURITY BOT</a> – An open-source security bot to help monitor and protect your Discord server from common threats. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-antispam-bot">DISCORD ANTISPAM BOT</a> – A bot designed to filter spam messages and prevent mass mentions. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-modmail">DISCORD MODMAIL</a> – Lets server members contact staff via modmail system securely. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discordsrv-monitor">DISCORDSRV MONITOR</a> – Monitor your Discord server and integrate logs or notifications with external services. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-audit-logger">DISCORD AUDIT LOGGER</a> – Track and log all important events in your Discord server for security audits. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-invite-tracker">DISCORD INVITE TRACKER</a> – Tracks which invite links are being used and who invited whom. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-auto-moderator">DISCORD AUTO MODERATOR</a> – Automatically moderates messages based on set rules and keywords. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-webhook-guard">DISCORD WEBHOOK GUARD</a> – Protects your server’s webhooks from being abused or hijacked. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-raid-protection">DISCORD RAID PROTECTION BOT</a> – Provides protection against raid attacks by detecting and banning malicious accounts. Description by SYSH4CK3R.
+- <a href="https://github.com/example/discord-permission-checker">DISCORD PERMISSION CHECKER</a> – Checks and reports misconfigured permissions that could lead to vulnerabilities. Description by SYSH4CK3R.
+
+
+## 😎 WEB CRAWLING TOOLS
+
+- <a href="https://scrapy.org/">SCRAPY</a> – Scrapy is a powerful Python framework for large-scale web crawling and scraping. Description by SYSH4CK3R.
+- <a href="https://www.crummy.com/software/BeautifulSoup/">BEAUTIFULSOUP</a> – BeautifulSoup is a Python library for parsing HTML and XML documents. Description by SYSH4CK3R.
+- <a href="https://www.selenium.dev/">SELENIUM</a> – Selenium automates browsers and is used for scraping JavaScript-heavy websites. Description by SYSH4CK3R.
+- <a href="https://github.com/binux/pyspider">PYSPIDER</a> – PySpider is a powerful Python-based web crawling system with a web UI. Description by SYSH4CK3R.
+- <a href="https://github.com/gocolly/colly">COLLY</a> – Colly is a lightning fast and elegant web scraping framework for Golang. Description by SYSH4CK3R.
+- <a href="https://github.com/PuerkitoBio/gocrawl">GOCRAWL</a> – GoCrawl is a polite, concurrent web crawler written in Golang. Description by SYSH4CK3R.
+- <a href="https://www.httrack.com/">HTTRACK</a> – HTTrack is a website copier for offline browsing. Description by SYSH4CK3R.
+- <a href="https://docs.apify.com/sdk/">APIFY SDK</a> – Apify SDK is a JavaScript/Node.js toolkit for building web scrapers and automation tools. Description by SYSH4CK3R.
+- <a href="https://mechanize.readthedocs.io/">MECHANIZE</a> – Mechanize is a Python module for stateful programmatic web browsing. Description by SYSH4CK3R.
+- <a href="https://requests-html.kennethreitz.org/">REQUESTS-HTML</a> – Requests-HTML is a user-friendly Python library for HTML parsing and scraping. Description by SYSH4CK3R..
+
+## 📡 WIRELESS ATTACK TOOLS
+
+- <a href="https://aircrack-ng.org/">AIRCRACK-NG</a> – Aircrack-ng is a suite for testing Wi-Fi network security (authorized testing only). Description by SYSH4CK3R.
+- <a href="https://www.kismetwireless.net/">KISMET</a> – Kismet is a wireless network detector and intrusion detection system for authorized environments. Description by SYSH4CK3R.
+- <a href="https://www.wireshark.org/">WIRESHARK</a> – Wireshark is a powerful network protocol analyzer supporting wireless traffic capture. Description by SYSH4CK3R.
+- <a href="https://github.com/t6x/reaver-wps-fork-t6x">REAVER</a> – Reaver tests WPS PIN security on authorized networks only. Description by SYSH4CK3R.
+- <a href="https://github.com/savio-code/fern-wifi-cracker">FERN WIFI CRACKER</a> – Fern WiFi Cracker is a GUI-based tool for testing Wi-Fi security in labs. Description by SYSH4CK3R.
+- <a href="https://github.com/derv82/wifite2">WIFITE</a> – Wifite automates Wi-Fi security testing tasks on authorized networks. Description by SYSH4CK3R.
+- <a href="https://www.bettercap.org/">BETTERCAP</a> – Bettercap is a powerful framework for network analysis and testing wireless security. Description by SYSH4CK3R.
+- <a href="https://github.com/FluxionNetwork/fluxion">FLUXION</a> – Fluxion is a Wi-Fi social engineering testing tool for educational environments. Description by SYSH4CK3R.
+- <a href="https://w1.fi/hostapd/">HOSTAPD</a> – Hostapd creates software access points for wireless testing scenarios. Description by SYSH4CK3R.
+- <a href="https://github.com/ZerBea/hcxtools">HCXTOOLS</a> – Hcxtools is a set of tools for converting and analyzing Wi-Fi packets and hashes. Description by SYSH4CK3R.
