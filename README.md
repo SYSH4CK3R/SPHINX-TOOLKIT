@@ -6,6 +6,19 @@
 ### Supported systems Linux
 #### will download 10-30 minutes
    
+## New features:  
+**1) New Tools And functions**
+- New tools for penetration testing. And many new opportunities.
+
+**2) Castomization and desing**
+- Now a new customization for the terminal has been added, and a new design has been added.
+
+**3) New Desing And functions**
+- The AllHackingTools installer has been updated it has got a new design and many features to check packages.
+
+
+---
+<a id="installing"></a>
 ## My Information
 
 [WEBSITE](http://www.sysh4ck3r.giize.com/)
