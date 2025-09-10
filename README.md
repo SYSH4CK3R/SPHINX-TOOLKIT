@@ -3,33 +3,8 @@
 <img width="99.9%" src="https://f.top4top.io/p_3535uppow1.jpg"/>
 > AllHackingTools: is a system designed to automate the download process and install various tools for penetration testing.
 
-### [+] Installation
-
-[console.cloud.google](https://console.cloud.google.com/).
-1. ```bash
-   git clone https://github.com/SYSH4CK3R/FREE-RDP7
-   ```
-2. ```bash
-   cd FREE-RDP7
-   ```
-3. ```bash
-   bash rdp7.sh
-   ```
-4. ```bash
-   PORT : 6080
-   ```
-### [+] Installation Exe
-
-1. ```bash
-   sudo dpkg --add-architecture i386
-   ```
-2. ```bash
-   sudo apt-get update -y
-   ```
-3. ```bash
-   sudo apt install wine64 wine32 -y
-   ```
-
+### Supported systems Linux
+#### will download 10-30 minutes
    
 ## My Information
 
